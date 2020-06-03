@@ -1,2 +1,4 @@
-# Yandex.Practicum
-Projects completed during studies at Yandex.Practicum
+### Yandex.Practicum  
+
+В этом репозитарии собраны все выполненные мною проекты во время прохождения курса 
+в Яндекс.Практикуме по специальности "Специалист по Data Science".
