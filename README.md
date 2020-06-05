@@ -10,7 +10,7 @@ ___
 -----------------|----------------------
 [bank_cr_scoring](https://github.com/Toomas-A/Yandex.Practicum/tree/master/bank_cr_scoring)  | Исследование надёжности заёмщиков для модели кредитного скоринга
 [computer_games](https://github.com/Toomas-A/Yandex.Practicum/tree/master/computer_games)   | Исследование по продажам компьютерных игр
-normalize.css    | Нормалайзер CSS от Nicolas Gallagher
+[mobile_operator_tariff_analysis](https://github.com/Toomas-A/Yandex.Practicum/tree/master/mobile_operator_tariff_analysis)| Анализ поведения пользователей мобильного оператора.
 block.css        | Основные стили блоков системы
 addition.css     | Дополнительные стили
 fontawesome.css  | Стили иконочного шрифта
