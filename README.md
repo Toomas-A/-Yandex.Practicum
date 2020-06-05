@@ -24,9 +24,9 @@ index.html       | Индексный файл для проверки внос�
 [bank_client_churn](https://github.com/Toomas-A/Yandex.Practicum/tree/master/bank_client_churn)| Модель, прогнозирующая уйдёт клиент из банка в ближайшее время или нет.
 [gold_processing](https://github.com/Toomas-A/Yandex.Practicum/tree/master/gold_processing)| Модель, оптимизирующая производство золотоперерабатывающего предприятия.
 [insurance_matrix](https://github.com/Toomas-A/Yandex.Practicum/tree/master/insurance_matrix)| Преобразование персональной информации  клиентов в зашифрованный вид.
-block.css        | Основные стили блоков системы
-addition.css     | Дополнительные стили
-fontawesome.css  | Стили иконочного шрифта
+[mobile_operator_tariffs](https://github.com/Toomas-A/Yandex.Practicum/tree/master/mobile_operator_tariffs)| Рекомендация тарифов мобильной связи
+[nlp_text_sentiment](https://github.com/Toomas-A/Yandex.Practicum/tree/master/nlp_text_sentiment)| Модель (NLP), классифицирующая комментарии на позитивные и негативные.
+[oil_extraction](https://github.com/Toomas-A/Yandex.Practicum/tree/master/oil_extraction)|Модель, определяющая рентабельный регион для бурения нефтяных скважин.
 layout.css       | Основные стили, применительно к определённому сайту
 lightbox.css     | Стили лайтбокса, если таковой используется
 index.html       | Индексный файл для проверки вносимых из
