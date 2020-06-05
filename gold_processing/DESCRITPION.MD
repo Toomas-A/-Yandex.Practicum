@@ -24,7 +24,7 @@
 - RandomForestRegressor;
 - LinearRegression;
 - DummyRegressor.
-> C масштабированием признаков при помощи StandardScaler:
+> #### C масштабированием признаков при помощи StandardScaler:
 >- LinearRegression;
 - LASSO;
 - ElasticNet;
