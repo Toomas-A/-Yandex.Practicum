@@ -18,6 +18,7 @@
 - Support Vector Machine.
 
 ### Используемые библиотеки:  
-- `sklearn`  
+- `pandas`
 - `numpy`
+- `sklearn`  
 - `matplotlib`
