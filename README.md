@@ -10,8 +10,8 @@ ___
 #### Исследования
 Название проекта | Содержание
 -----------------|----------------------
-[bank_cr_scoring](https://github.com/Toomas-A/Yandex.Practicum/tree/master/bank_cr_scoring)  | Исследование надёжности заёмщиков для системы кредитного скоринга
-[computer_games](https://github.com/Toomas-A/Yandex.Practicum/tree/master/computer_games)   | Исследование по продажам компьютерных игр
+[bank_cr_scoring](https://github.com/Toomas-A/Yandex.Practicum/tree/master/bank_cr_scoring)  | Исследование надёжности заёмщиков для системы кредитного скоринга.
+[computer_games](https://github.com/Toomas-A/Yandex.Practicum/tree/master/computer_games)   | Исследование по продажам компьютерных игр.
 [mobile_operator_tariff_analysis](https://github.com/Toomas-A/Yandex.Practicum/tree/master/mobile_operator_tariff_analysis)| Анализ поведения пользователей мобильного оператора.
 [realestate_sp](https://github.com/Toomas-A/Yandex.Practicum/tree/master/realestate_sp)| Исследование объявлений о продаже квартир.
    
