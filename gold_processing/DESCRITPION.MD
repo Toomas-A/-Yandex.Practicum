@@ -26,13 +26,15 @@
 - DummyRegressor.
 > #### C масштабированием признаков при помощи StandardScaler:
 >- LinearRegression;
-- LASSO;
-- ElasticNet;
-- KNeighborsRegressor;
-- GradientBoostingRegressor.
+>- LASSO;
+>- ElasticNet;
+>- KNeighborsRegressor;
+>- GradientBoostingRegressor.
 
 ### Используемые библиотеки:  
 - `pandas`
 - `numpy`
+- `scipy`
 - `sklearn`  
 - `matplotlib`
+- `seaborn`
