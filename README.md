@@ -14,7 +14,7 @@ ___
 [computer_games](https://github.com/Toomas-A/Yandex.Practicum/tree/master/computer_games)   | Исследование по продажам компьютерных игр.
 [mobile_operator_tariff_analysis](https://github.com/Toomas-A/Yandex.Practicum/tree/master/mobile_operator_tariff_analysis)| Анализ поведения пользователей мобильного оператора.
 [realestate_sp](https://github.com/Toomas-A/Yandex.Practicum/tree/master/realestate_sp)| Исследование объявлений о продаже квартир.
-   
+[airticket_analysis]()| Анализ предпочтений путешествующих самолетом на внутренних направлениях.
 
 
 
